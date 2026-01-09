@@ -10,7 +10,7 @@ Fork this repository to your own GitHub account, then follow the links below to 
 ## Contents
 :one: [**Getting Started**](getting_started/README.md): How to install Git and configure your ssh keys to work with GitHub.
 
-:two: [**git add & commit**](2_adding_and_committing_changes.md): How to add files to the staging area and commit them to your local repository. **Most commonly used Git commands**
+:two: [**git add & commit**](adding_committing/README.md): How to add files to the staging area and commit them to your local repository. **Most commonly used Git commands**
 
 :three: [**git pull & push**](3_pulling_and_pushing.md): How to pull changes from a remote repository and push your local commits to it.
 
