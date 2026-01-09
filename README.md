@@ -18,6 +18,8 @@ Fork this repository to your own GitHub account, then follow the links below to 
 
 :five: [**pull requests**](pull_requests/README.md): How to create and manage pull requests (PR) on GitHub (Make your contribution to other's repo).
 
+More sections will be added soon!
+
 ## Contributing
 Welcome to contribute Japanese/Chinese or any other translations for this tutorial!
 You can create a new branch, add your translation files, and open a pull request.
