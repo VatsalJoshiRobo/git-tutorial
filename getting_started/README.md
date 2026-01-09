@@ -50,4 +50,15 @@ To securely connect to GitHub, you need to set up SSH keys. Follow these steps:
 
     ![ssh_test](pics/ssh_setting_suc.png)
 
+## 4. Cloning the Repository
+Go to your forked repository on GitHub and copy the SSH URL.
+
+In your terminal, navigate to the directory where you want to clone the repository and run:
+
+![clone_repo](pics/clone_repo.png)
+
+``` bash
+git clone YOUR_SSH_URL
+```
+
 :tada: Congratulations! You have successfully installed Git and configured your SSH keys to work with GitHub. Let's move on to the next section. :rocket:
