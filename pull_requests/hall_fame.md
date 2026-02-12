@@ -11,7 +11,7 @@ Let's add your name to the Hall of Fame by creating a pull request (PR) to this 
 | [<img src="https://github.com/stonewell25.png" width="50">](https://github.com/stonewell25) | [**@stonewell25**](https://github.com/stonewell25) | Huooooooooo |
 | [<img src="https://github.com/ricardo-manriquez.png" width="50">](https://github.com/ricardo-manriquez) | [**@ricardo-manriquez**](https://github.com/ricardo-manriquez) | I'm Ricardo and I build robots! 🤖 |
 | [<img src="https://github.com/Shogo-git-hub.png" width="50">](https://github.com/Shogo-git-hub) | [**@Shogo-git-hub**](https://github.com/Shogo-git-hub) | I'm Shogo! |
-| [<img src="https://github.com/VatsalJoshiRobo/.png" width="50"](https://github.com/VatsalJoshiRobo/) | [**@VatsalJoshiRobo/**](https://github.com/VatsalJoshiRobo/) | I am Vatsal |
+| [<img src="https://github.com/VatsalJoshiRobo.png" width="50"](https://github.com/VatsalJoshiRobo/) | [**@VatsalJoshiRobo/**](https://github.com/VatsalJoshiRobo/) | I am Vatsal |
 <!-- 
 | [<img src="https://github.com/your-username.png" width="50" alt="Name">](https://github.com/your-username) | [**@your-username**](https://github.com/your-username) | introduction (research or hobby) |
  -->
